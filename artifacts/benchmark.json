@@ -1,0 +1,13 @@
+{
+  "test_type": "standalone_host_loopback_benchmark",
+  "scope": "controller_decide_only_including_clock_calls",
+  "warning": "not_OCUDU_not_PHY_not_WCET_not_deadline_proof",
+  "samples": 100000,
+  "mean_ns": 40.35,
+  "p50_ns": 40.00,
+  "p99_ns": 41.00,
+  "p999_ns": 41.00,
+  "max_ns": 193862,
+  "elapsed_total_ns": 6701990,
+  "checksum": 2145000
+}

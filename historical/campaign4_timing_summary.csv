@@ -1,0 +1,5 @@
+boundary,statistic,lower_ns,upper_ns,point_ns,lower_us,upper_us,point_us,lower_slots,upper_slots,point_slots,slot_duration_us,run_count,source_status
+local_controller_hook_ctrl_ns,range_of_per_run_p50,273,524,,0.273,0.524,,0.000546,0.001048,,500,9,reported_aggregate
+local_controller_hook_ctrl_ns,reported_per_run_p99_upper_bound,,1349,,,1.349,,,0.002698,,500,9,reported_bound
+websocket_command_to_first_applied_gnb_slot,reported_range,554800,3071000,,554.8,3071.0,,1.1096,6.1420,,500,1,six_reported_r9_event_extrema
+websocket_command_to_first_applied_gnb_slot,event_derived_median,,,1420200,,,1420.2,,,2.8404,500,1,six_reported_r9_events

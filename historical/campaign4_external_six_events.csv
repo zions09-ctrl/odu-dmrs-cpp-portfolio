@@ -1,0 +1,7 @@
+seq,action,reported_rtt_us,reported_command_to_first_applied_us,scanned_trace_rows,source,run
+1,4,2512.0,3071.0,2,DMRS_DAPP_RESULTS_KO.md §8.5,r9_control_latency
+2,1,999.7,1011.5,2,DMRS_DAPP_RESULTS_KO.md §8.5,r9_control_latency
+3,4,874.0,2139.5,3,DMRS_DAPP_RESULTS_KO.md §8.5,r9_control_latency
+4,1,2072.0,1792.7,4,DMRS_DAPP_RESULTS_KO.md §8.5,r9_control_latency
+5,4,896.0,1047.7,1,DMRS_DAPP_RESULTS_KO.md §8.5,r9_control_latency
+6,1,784.1,554.8,2,DMRS_DAPP_RESULTS_KO.md §8.5,r9_control_latency

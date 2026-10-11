@@ -1,0 +1,10 @@
+run,ctrl_p50_ns,ctrl_p90_ns,ctrl_p99_ns,ctrl_max_ns,trace_p50_ns,trace_p99_ns,reported_ctrl_p99_slot_percent,controller_scope,source
+r1_baseline,346,654,1130,1276053,327,915,0.226,baseline/no_actuation,DMRS_DAPP_RESULTS_KO.md §8.3
+r2_forced1,275,434,695,284762,370,791,0.139,forced_action_1,DMRS_DAPP_RESULTS_KO.md §8.3
+r3_forced2,302,473,770,181229,356,884,0.154,forced_action_2,DMRS_DAPP_RESULTS_KO.md §8.3
+r4_forced3,351,512,784,210095,390,832,0.157,forced_action_3/no_op,DMRS_DAPP_RESULTS_KO.md §8.3
+r5_forced4,286,490,781,239045,355,774,0.156,forced_action_4,DMRS_DAPP_RESULTS_KO.md §8.3
+r6_policy_cqi15,480,878,1349,473399,374,924,0.270,CQI_rule_15,DMRS_DAPP_RESULTS_KO.md §8.3
+r7_policy_cqi3,524,816,1218,394814,391,854,0.244,CQI_rule_3,DMRS_DAPP_RESULTS_KO.md §8.3
+r8_runtime_flip,359,620,999,280698,383,787,0.200,remote_runtime_flip,DMRS_DAPP_RESULTS_KO.md §8.3
+r9_control_latency,273,488,813,3096322,362,903,0.163,remote_six_commands,DMRS_DAPP_RESULTS_KO.md §8.3

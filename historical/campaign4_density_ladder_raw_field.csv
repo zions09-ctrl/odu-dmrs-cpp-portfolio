@@ -1,0 +1,5 @@
+dmrs_symbols,data_re_per_rb,reported_dmrs_overhead_percent,reported_modal_tbs_field_value,unit,unit_source,source
+1,138,4.17,13062,bytes,OCUDU Scheduler Log Reference; native-log agreement reported,DMRS_DAPP_RESULTS_KO.md §4
+2,132,8.33,12549,bytes,OCUDU Scheduler Log Reference; native-log agreement reported,DMRS_DAPP_RESULTS_KO.md §4
+3,126,12.50,11781,bytes,OCUDU Scheduler Log Reference; native-log agreement reported,DMRS_DAPP_RESULTS_KO.md §4
+4,120,16.67,11272,bytes,OCUDU Scheduler Log Reference; native-log agreement reported,DMRS_DAPP_RESULTS_KO.md §4

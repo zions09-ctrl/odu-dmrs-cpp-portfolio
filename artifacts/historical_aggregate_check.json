@@ -1,0 +1,13 @@
+{
+  "source_type": "previously_reported_aggregates_not_raw_reproduction",
+  "runs": 9,
+  "hook_p50_range_ns": [
+    273,
+    524
+  ],
+  "hook_p99_max_ns": 1349,
+  "hook_max_observed_ns": 3096322,
+  "remote_n": 6,
+  "remote_median_us": 1420.2,
+  "remote_median_slots_at_500us": 2.8404000000000003
+}
